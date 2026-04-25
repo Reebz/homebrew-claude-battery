@@ -1,6 +1,6 @@
 cask "claude-battery" do
-  version "1.45"
-  sha256 "5ea1709757f1a9732c946ab6354d25917612c23466cd37670178fd2e562cf9b3"
+  version "1.47"
+  sha256 "9b10b9089f3391983dc933811bfcc450299e46fb1ef12d94993fb18bc6380f33"
 
   url "https://github.com/Reebz/claude-battery/releases/download/v#{version}/claude-battery_v#{version}.dmg",
       verified: "github.com/Reebz/claude-battery/"
