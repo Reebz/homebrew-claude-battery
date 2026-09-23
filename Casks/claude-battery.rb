@@ -1,6 +1,6 @@
 cask "claude-battery" do
-  version "1.72"
-  sha256 "3698ec6a53320b231cb6ebf2bc3bf679beeee87d11f0eb336acad9726a759857"
+  version "1.73"
+  sha256 "bbc19e83daae48b6d2cab2125f7dda5f44910e233384bbb044b36224d3cf44e8"
 
   url "https://github.com/Reebz/claude-battery/releases/download/v#{version}/claude-battery_v#{version}.dmg"
   name "Claude Battery"
